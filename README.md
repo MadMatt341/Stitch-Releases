@@ -3,11 +3,11 @@
 Stitch makes one MP4 video from an ordered list of local video files.
 The app keeps source files unchanged.
 
-Download [Stitch 0.1.0 beta for Windows x64](https://github.com/MadMatt341/Stitch-Releases/releases/download/v0.1.0-beta/Stitch-v0.1.0-beta-win-x64.zip) (95.5 MB).
+Download [Stitch 0.1.2 beta for Windows x64](https://github.com/MadMatt341/Stitch-Releases/releases/download/v0.1.2-beta/Stitch-v0.1.2-beta-win-x64.zip) (95.5 MB).
 Extract the complete ZIP before you start `Stitch.exe`.
 Keep its runtime and license folders beside the executable.
 
-The [release page](https://github.com/MadMatt341/Stitch-Releases/releases/tag/v0.1.0-beta) contains matching source archives, runtime records, checksums, and beta limits.
+The [release page](https://github.com/MadMatt341/Stitch-Releases/releases/tag/v0.1.2-beta) contains matching source archives, runtime records, checksums, and beta limits.
 The large FFmpeg source archive is a separate download.
 You do not need the source archives to run the app.
 
